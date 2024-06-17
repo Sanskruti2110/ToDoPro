@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Baloo-Regular
+font link: https://fonts.google.com/specimen/Baloo
+font author: Ek Type
+font author site: https://ektype.in/
+
+
+{"bg":"#E1EFF7","icon-gradient-0":"#006678","icon-gradient-1":"#4FA8FF","font":"#0D2633","slogan":"#213a47"}
+      
